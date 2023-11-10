@@ -1,0 +1,68 @@
+"""
+영어 원문
+FINE_TUNED = False
+FINE_TUNED = True, model_name = '400'
+FINE_TUNED = True, model_name = '200'
+"""
+
+[https://en.wikipedia.org/wiki/The_Hunger_Games]
+
+The Hunger Games is a series of young adult dystopian novels written by American author Suzanne Collins.
+The Hunger Games는 미국 작가 수잔 콜린스에 의해 작성된 젊은 성인 디스토피아 소설의 시리즈입니다.
+배고프 게임은 미국 작가 수잔 콜린스가 쓰여있는 젊은 성인 디스토피아 소설입니다.
+미국 작가 수잔 콜린스에 적힌 젊은 성인 디스토피아 소설의 시리즈입니다.
+
+[https://www.imdb.com/title/tt1392170/reviews?ref_=tt_urv]
+
+OK, look, I'm probably old enough to be the grandfather of most of the people submitting reviews to this movie.
+OK, 보십시오, 나는 아마도이 영화에 대한 리뷰를 제출하는 대부분의 사람들의 할아버지가 될 수있다.
+좋아, 보세요, 아마 이번 영화에 평소를 전하는 사람들의 할아버지가 될 수 있을 거예요.
+응. 보세요. 아마 이 영화에 대한 평소를 제출하는 사람들 대부분의 할아버지가 될 수 있을 거예요.
+
+I am not into the teen age drivel that seems to be everywhere you look these days but .....
+나는 당신이 오늘날보고있는 모든 곳에있는 것처럼 보이는 십대 드라이브가 아니지만.....
+요새 어딜 가든지 보이는 십대 드라이블에 안 들어가는데,
+요즘 보시는 곳마다 젊은 나이 드라이브는 안 들어가는데...
+
+To finish my story: unbelievably, when I returned the DVD to the library, on a table in the lobby of the library where they sold used books cheaply, I found a mint condition copy of the book (the big paperback format) for fifty cents.
+내 이야기를 끝내기 위해 : 믿을 수 없게도, 내가 도서관에 DVD를 반환했을 때, 그들이 저렴하게 센트에 대한 책의 멘트 조건 사본 (큰 종이백 형식)을 발견했습니다.
+이야기를 끝내고 싶은데, 도서관 로비에서 다이어트를 반납했을 때 50센트에 쓰여있는 책을 입고 있었어.
+이야기를 끝내고 싶은데 도서관 로비에서 책상에서 책상에서 책상에서 책상으로 DVD를 도서관으로 돌려드렸는데, 50센트로 책을 멘트 조건으로 찍어드렸습니다.
+
+I grabbed it.
+나는 그것을 잡았다.
+내가 훔쳐갔어.
+포장했어요.
+
+I began reading the book when I got home and couldn't put it down even though I already knew the story.
+나는 집에 도착했을 때 책을 읽기 시작했고, 이미 이야기를 알고 있었지만 그것을 놓을 수 없었다.
+집에 도착했을 때 책을 읽기 시작했는데 벌써 이야기를 안 했어.
+집에 도착했을 때 책을 읽기 시작했는데 이미 이야기를 아는 것에도 불구하고 앉을 수가 없었어요.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
