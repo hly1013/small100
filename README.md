@@ -20,6 +20,18 @@ improved from M2M-100
   - SequentialSampler
 - Python
 
+## How to Execute
+1. start venv
+    requirements installed in venv
+    -->
+    command `source venv/bin/activate` to start the virtual environment
+    and then run files in this package
+2. run main file
+    command `python3 .` in terminal (at `/small100`)
+    or `python3 small100` in parent directory
+    to run `__main__.py`
+3. type your input as instruction, and get the result!
+
 ## Directory Structure
 - /data: training data
 - /log: log files written during training
@@ -35,18 +47,6 @@ improved from M2M-100
 - setting.py: setting needed for training
 - log.py: logging during training
 - inference.py: inference using trained small100 model
-
-## How to Execute
-1. start venv
-    requirements installed in venv
-    -->
-    command `source venv/bin/activate` to start the virtual environment
-    and then run files in this package
-2. run main file
-    command `python3 .` in terminal (at `/small100`)
-    or `python3 small100` in parent directory
-    to run `__main__.py`
-3. type your input as instruction, and get the result!
 
 ## TODO
 - freeze most of the model's parameters, and learn only a few parameters at fine-tuning
