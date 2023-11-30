@@ -21,6 +21,9 @@ improved from M2M-100
 - Python
 
 ## How to Execute
+0. install requirements  
+   recommend to use venv  
+   `pip install -r requirements.txt`
 1. start venv
     requirements installed in venv
     -->
